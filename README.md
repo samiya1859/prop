@@ -29,6 +29,9 @@ Welcome to the **Prop Project**! This responsive and interactive web application
   - **Pulse Effect**: Key elements have a subtle pulsing effect, drawing attention in a refined way.
 - **Host Information Section**: Displays host details and supported languages, styled to fit the overall theme.
 - **Contact Host Button**: Customizable contact button for users to reach out to the host, with hover effects and a responsive layout.
+- **Date Section**: Custom-styled date section using only CSS3 for a modern and user-friendly date display.
+- **CSS-only Review Slider**: A slider component to navigate through different reviews without the need for JavaScript.
+- **Host Information Section**: Displays information about the host, including supported languages for communication.
 - **Fully Responsive Design**: Uses Flexbox, media queries, and grid layout to ensure adaptability across various screen sizes, from mobile to desktop.
 
 ## Technologies Used
